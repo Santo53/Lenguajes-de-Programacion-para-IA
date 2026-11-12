@@ -15,17 +15,17 @@
 |---|---|
 | **Alumno** | Santiago Toledo Berral |
 | **Materia** | Lenguajes de Programación para IA |
-| **Institución** | _[Nombre de la universidad]_ |
-| **Carrera** | _[Nombre de la carrera]_ |
-| **Profesor/a** | _[Nombre del docente]_ |
-| **Ciclo lectivo** | 2026 |
+| **Institución** | UDIT|
+| **Maestria** | Maestría en Inteligencia Artificial |
+| **Profesor/a** | Carlos Cob |
+| **Ciclo lectivo** | 2026/2027 |
 | **GitHub** | [@Santo53](https://github.com/Santo53) |
 
 ---
 
 ## Sobre este repositorio
 
-Este repositorio reúne las **tareas, prácticas y ejercicios** que voy entregando a lo largo del cursado de la materia. Cada clase tiene su propia carpeta con los notebooks y los datos que se usaron.
+Este repositorio reúne las **tareas, prácticas y ejercicios** que voy entregando a lo largo del cursado de la materia. Cada clase tiene su propia carpeta con los notebooks respectivos.
 
 ---
 
