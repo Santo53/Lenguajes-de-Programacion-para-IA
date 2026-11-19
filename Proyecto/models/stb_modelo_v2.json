@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-11-19",
+  "filas": 74973,
+  "features_lgbm": [
+    "categoria",
+    "familia_unidad",
+    "cantidad_estandar",
+    "unidades_pack",
+    "cantidad_por_unidad",
+    "n_caracteres",
+    "n_bullets",
+    "tiene_descripcion",
+    "palabras_nombre",
+    "ratio_mayusculas",
+    "ratio_digitos",
+    "es_regalo",
+    "es_granel",
+    "es_variedad",
+    "cluster_producto",
+    "precio_tipico_cluster",
+    "precio_por_unidad_cluster",
+    "precio_tipico_marca",
+    "frecuencia_marca",
+    "log_precio_esperado"
+  ],
+  "smape_validation": 46.86,
+  "metricas_test": {
+    "SMAPE (%)": 46.3533,
+    "MAE ($)": 10.5144,
+    "R² (log)": 0.5454
+  }
+}

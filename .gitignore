@@ -1,3 +1,19 @@
 # Tipos de archivos
 *.csv
 *.xlsx
+
+# Imágenes y embeddings (pesados, se regeneran con los notebooks 05 y 06)
+Proyecto/data/imagenes/
+*.npz
+
+# Entorno y cachés
+.venv/
+__pycache__/
+
+# Datos generados por los notebooks (se regeneran ejecutando 01-04)
+*.parquet
+
+# Modelos: solo se versiona el que usa la API (lo genera el notebook 04)
+Proyecto/models/*
+!Proyecto/models/stb_modelo_v2.joblib
+!Proyecto/models/stb_modelo_v2.json
